@@ -1,0 +1,14 @@
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\MASTER\OneDrive\Área de Trabalho\Bootcamp_Dio\.NetDeveloper\Desenvolvimento_orientado_testes\TDD_Testes_Unitarios_dotnet\NewTalents\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll

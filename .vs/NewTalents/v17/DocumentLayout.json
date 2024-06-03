@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MASTER\\OneDrive\\\u00C1rea de Trabalho\\Bootcamp_Dio\\.NetDeveloper\\Desenvolvimento_orientado_testes\\TDD_Testes_Unitarios_dotnet\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145FE1B5-DAB8-4070-9373-D4952056D1FB}|TestNewTalents\\TestNewTalents.csproj|c:\\users\\master\\onedrive\\\u00E1rea de trabalho\\bootcamp_dio\\.netdeveloper\\desenvolvimento_orientado_testes\\tdd_testes_unitarios_dotnet\\newtalents\\testnewtalents\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FE1B5-DAB8-4070-9373-D4952056D1FB}|TestNewTalents\\TestNewTalents.csproj|solutionrelative:testnewtalents\\calculadoratestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1786FDEB-E5DA-48F0-B56B-3367F7DDC61A}|NewTalents\\NewTalents.csproj|c:\\users\\master\\onedrive\\\u00E1rea de trabalho\\bootcamp_dio\\.netdeveloper\\desenvolvimento_orientado_testes\\tdd_testes_unitarios_dotnet\\newtalents\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1786FDEB-E5DA-48F0-B56B-3367F7DDC61A}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraTestes.cs",
+              "DocumentMoniker": "C:\\Users\\MASTER\\OneDrive\\\u00C1rea de Trabalho\\Bootcamp_Dio\\.NetDeveloper\\Desenvolvimento_orientado_testes\\TDD_Testes_Unitarios_dotnet\\NewTalents\\TestNewTalents\\CalculadoraTestes.cs",
+              "RelativeDocumentMoniker": "TestNewTalents\\CalculadoraTestes.cs",
+              "ToolTip": "C:\\Users\\MASTER\\OneDrive\\\u00C1rea de Trabalho\\Bootcamp_Dio\\.NetDeveloper\\Desenvolvimento_orientado_testes\\TDD_Testes_Unitarios_dotnet\\NewTalents\\TestNewTalents\\CalculadoraTestes.cs",
+              "RelativeToolTip": "TestNewTalents\\CalculadoraTestes.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:27:01.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\MASTER\\OneDrive\\\u00C1rea de Trabalho\\Bootcamp_Dio\\.NetDeveloper\\Desenvolvimento_orientado_testes\\TDD_Testes_Unitarios_dotnet\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\MASTER\\OneDrive\\\u00C1rea de Trabalho\\Bootcamp_Dio\\.NetDeveloper\\Desenvolvimento_orientado_testes\\TDD_Testes_Unitarios_dotnet\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "NewTalents\\Calculadora.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA1wCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:28:21.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
